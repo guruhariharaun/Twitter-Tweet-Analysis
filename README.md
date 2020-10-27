@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <b>Twitter-Tweet-Analysis<br></b>
+  <b>Twitter Tweet Analysis<br></b>
 </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Library-Flask-red.svg?style=flat-square">
@@ -19,10 +19,10 @@ The dataset used for this project is Twitter tweets. In, order to get the Twitte
 The access tokens will lool something like this:
 |       ENV         | Credentials                                             |
 |-------------------|---------------------------------------------------------|
-|**ACCESS_TOKEN**   | '100828113-6s4LYeoYFtXZCDg6dgojawMPPWIoptYIYFQdfdYXu'   |
-|**ACCESS_SECRET**  | 'ULcfr3haQTgJ5VhBE6oxdfdfutkjfddfffh9kWVy7lyKtKqh37Fg0' |
-|**CONSUMER_KEY**   | 'jlY6vQyHYgbDdfdfdtKBOvpV9gK2Uj'                        |
-|**CONSUMER_SECRET**| 'pBAAqvoQxijOlCwdfddfzdfwefpnhV4CMd48uTjmTVdoodzK'      |
+|**ACCESS_TOKEN**   | 100828113-6s4LYeoYFtXZCDg6dgojawMPPWIoptYIYFQdfdYXu     |
+|**ACCESS_SECRET**  | ULcfr3haQTgJ5VhBE6oxdfdfutkjfddfffh9kWVy7lyKtKqh37Fg0   |
+|**CONSUMER_KEY**   | jlY6vQyHYgbDdfdfdtKBOvpV9gK2Uj                          |
+|**CONSUMER_SECRET**| pBAAqvoQxijOlCwdfddfzdfwefpnhV4CMd48uTjmTVdoodzK        |
 
 ### Methodology used in developing project:
 <img src="/asset/methodology.png"/>
