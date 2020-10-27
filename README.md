@@ -58,9 +58,9 @@ You can access the real-time data in visual representation by accessing this URL
 The **output of this project** is recorded and uploaded in YouTube
 - YouTube Link[Output]: **https://youtu.be/O8vH669EOAk**
 
-<br><br><br>
+<br><br>
 <h4 align="center">
   This assignment is fully caffeinated ☕ by <a href="https://github.com/guruhariharaun">Guru HariHaraun</a>
 </h4>
-<br><br><br><br>
+<br><br>
 <img src="/asset/footer.png"/>
